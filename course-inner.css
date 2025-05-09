@@ -53,7 +53,7 @@
 
 #course-inner .overview .course-head .c-name h2
 {
-	color: #29303B;
+	color: #000000;
 }
 
 #course-inner .overview .course-head .c-name .star
@@ -63,7 +63,7 @@
 
 #course-inner .overview .course-head .c-name .star i
 {
-	color: #FDC93B;
+	color: #f6ff00;
 	font-size: 0.9rem;
 }
 
@@ -76,7 +76,7 @@
 {
 	padding: 16px 22px;
 	border-radius: 5px;
-	color: #5838fc;
+	color: #000000;
 	font-size: 24px;
 	font-weight: 700;
 	background-color: rgba(88, 56, 252, 0.1);
@@ -90,7 +90,7 @@
 
 #course-inner .learn p i
 {
-	color: #564ce4;
+	color: #000000;
 	font-weight: 700;
 	margin-right: 20px;
 }
@@ -124,13 +124,13 @@
 #course-inner .enroll p
 {
 	padding-bottom: 15px;
-	color: #64626e;
+	color: #000000;
 	margin: 15px 0;
 }
 
 #course-inner .enroll p i
 {
-	color: #654ce4;
+	color: #000000;
 	/*font-weight: 500;*/
 	margin-right: 18px;
 	width: 16px;
